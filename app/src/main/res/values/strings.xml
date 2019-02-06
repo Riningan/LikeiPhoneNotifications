@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">LikeiPhoneNotifications</string>
+    <string name="more">More than $d</string>
+    <string name="title">Notifications</string>
+    <string name="collapse">Collapse</string>
+    <string name="remove_all">Remove all</string>
 </resources>
