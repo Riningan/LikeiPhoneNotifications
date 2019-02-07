@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="#049a42">
+    <item>
+        <selector>
+            <item
+                android:drawable="@drawable/background_notifications_left_pressed"
+                android:state_selected="true" />
+            <item
+                android:drawable="@drawable/background_notifications_left_pressed"
+                android:state_checked="true" />
+            <item
+                android:drawable="@drawable/background_notifications_left_default"
+                android:state_pressed="true" />
+            <item
+                android:drawable="@drawable/background_notifications_left_pressed"
+                android:state_enabled="false" />
+            <item android:drawable="@drawable/background_notifications_left_default" />
+        </selector>
+    </item>
+</ripple>

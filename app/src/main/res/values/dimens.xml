@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="left_offset">14dp</dimen>
+    <dimen name="right_offset">14dp</dimen>
+    <dimen name="top_offset">16dp</dimen>
+    <dimen name="bottom_offset">16dp</dimen>
+
+    <dimen name="header_height">32dp</dimen>
+
+    <dimen name="card_top_offset">8dp</dimen>
+</resources>
